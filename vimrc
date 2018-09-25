@@ -15,6 +15,8 @@ set wildmenu
 set lazyredraw
 set showmatch
 
+set viminfo='100,<1000,s100,h
+
 set incsearch
 set hlsearch
 nnoremap <leader><space> :nohlsearch<CR> "forward slash space to remove highlighted searches
